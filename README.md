@@ -6,7 +6,11 @@ My attempt at improving the Komodo Dragon, the largest lizard to walk on our pla
 
 The mod is an .ovl file to be used in Planet Zoo. **To install:** Extract the contents of "Improved Komodo Dragon.zip" to win64 within your Planet Zoo directory.
 
-**If the main installation method cannot be used:** Place the .ovl files within *Planet Zoo Directory*\win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Male for the male Komodo Dragon, *Planet Zoo Directory*\win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Female for the female Komodo Dragon, *Planet Zoo Directory*/win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Juvenile for the juvenile Komodo Dragon, and *Planet Zoo Directory*/win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Shared for the male and/or female Komodo Dragon.
+**If the main installation method cannot be used:** Place the .ovl files within:
++ *Planet Zoo Directory*\win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Male for the male Komodo Dragon,
++ *Planet Zoo Directory*\win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Female for the female Komodo Dragon,
++ *Planet Zoo Directory*/win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Juvenile for the juvenile Komodo Dragon, and 
++ *Planet Zoo Directory*/win64\ovldata\Content0\Animals\Crocodiles\Komodo_Dragon\Komodo_Dragon_Shared for the male and/or female Komodo Dragon.
 
 **Note:** The included ovl may break with game updates. If necessary, use [Cobra Tools](https://github.com/OpenNaja/cobra-tools) to unpack the vanilla .ovl file, export the .blend file to an .ms2 model, and reinject it with the Cobra Tools into an .ovl file. The main reason to use the backup method above is if this process of rebuilding the .ovl file is done.
 
