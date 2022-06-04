@@ -1,6 +1,6 @@
 # PZ-Improved-Komodo-Dragon
  
-My attempt at improving the Komodo Dragon, the largest lizard to walk on our planet today. It includes edited models and textures for the Komodo Dragon. I made the face a little browner in color to better match the body texture, as well as adjusting the shape of the body to try to make it look more realistic.
+My attempt at improving the Komodo Dragon, the largest lizard to walk on our planet today. It includes edited models and textures for the Komodo Dragon. I made the face a little browner in color to better match the body texture, as well as adjusting the shape of the body to try to make it look more realistic. Also available on [Nexus Mods](https://www.nexusmods.com/planetzoo/mods/1187).
 
 ## Installation
 
