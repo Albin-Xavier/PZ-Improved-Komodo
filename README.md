@@ -63,7 +63,7 @@ Additional screenshots for the media category are accepted, but please format th
 <img src=./media/komodo-dragon-15.jpg width="33%" height="auto">
 </div>
 
-## :file_folder: Project Structure <a name = "project_structure"></a>
+## 📁 Project Structure <a name = "project_structure"></a>
 - **blend:** .blend model files. Use with Blender. Inside, is a folder for textures.
 - **docs:** Documentation and reference material.
 - **media:** Pictures and other media to show the mod.
