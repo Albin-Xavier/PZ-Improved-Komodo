@@ -1,0 +1,7 @@
+Decimation Ratios: (Use with Collapse)
+LOD0: 1.00 (No Decimation)
+LOD1: 0.80
+LOD2: 0.56
+LOD3: 0.34
+LOD4: 0.20
+LOD5: 0.08
